@@ -6,4 +6,4 @@ This is a list of necessary resources for ontologies.
 
 <h2>Tools</h2>
 <br>
-<ahref="https://www.lymba.com/jaguar"> Jaguar</a> - Automatic Ontology Creation from Text 
+<a href="https://www.lymba.com/jaguar"> Jaguar</a> - Automatic Ontology Creation from Text 
